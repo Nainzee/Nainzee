@@ -111,16 +111,6 @@ A private, multi-user finance app deployed to production.
 
 ---
 
-## 📊 GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nainzee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nainzee&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
-
-</div>
-
----
 
 ## 📫 Let's connect
 
